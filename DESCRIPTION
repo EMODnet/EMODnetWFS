@@ -31,8 +31,10 @@ Imports:
     memoise,
     ows4R (>= 0.3-4),
     purrr,
+    rappdirs,
     rlang,
     sf,
+    snakecase,
     tibble,
     utils,
     whoami
