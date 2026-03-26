@@ -1,4 +1,4 @@
-# emodnet.wfs (development version)
+# emodnet.wfs 2.1.2
 
 # emodnet.wfs 2.1.1
 
