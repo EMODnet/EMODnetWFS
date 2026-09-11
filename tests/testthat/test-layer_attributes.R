@@ -52,7 +52,7 @@ test_that("layer attributes stuff works", {
       structure(
         # nolint end
         c("Class :character  ", "Mode  :character  "),
-        .Names = c(
+        names = c(
           "",
           ""
         )
@@ -60,7 +60,7 @@ test_that("layer attributes stuff works", {
     )
     expect_identical(
       attr_summary[, 2][1],
-      structure("Min.   :0  ", .Names = "") # nolint: undesirable_function_linter
+      structure("Min.   :0  ", names = "") # nolint: undesirable_function_linter
     )
 
     crs1 <- get_layer_default_crs(
