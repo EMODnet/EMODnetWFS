@@ -1,15 +1,15 @@
 structure(list(url = "https://geo.vliz.be/geoserver/Emodnetbio/wfs?service=WFS&version=2.0.0&typeName=Emodnetbio:mediseh_ruppia_c_pnt&request=DescribeFeatureType", 
     status_code = 200L, headers = structure(list(`x-content-type-options` = "nosniff", 
-        `x-frame-options` = "SAMEORIGIN", `content-security-policy` = "base-uri 'self'; form-action 'self'; default-src 'none'; child-src 'self'; connect-src 'self'; font-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self';, frame-ancestors 'self';", 
-        `access-control-allow-origin` = "*", `content-disposition` = "inline; filename=Emodnetbio-mediseh_ruppia_c_pnt.xsd", 
+        `x-frame-options` = "SAMEORIGIN", `content-security-policy` = "base-uri 'self'; default-src 'none'; child-src 'self'; connect-src 'self'; font-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; form-action 'self'; frame-ancestors 'self';", 
+        `content-disposition` = "inline; filename=Emodnetbio-mediseh_ruppia_c_pnt.xsd", 
         `content-encoding` = "gzip", `content-type` = "application/gml+xml; version=3.2", 
-        `transfer-encoding` = "chunked", date = "Fri, 06 Jun 2025 08:36:13 GMT"), class = c("insensitive", 
+        `transfer-encoding` = "chunked", date = "Fri, 11 Sep 2026 10:34:00 GMT"), class = c("insensitive", 
     "list")), all_headers = list(list(status = 200L, version = "HTTP/1.1", 
         headers = structure(list(`x-content-type-options` = "nosniff", 
-            `x-frame-options` = "SAMEORIGIN", `content-security-policy` = "base-uri 'self'; form-action 'self'; default-src 'none'; child-src 'self'; connect-src 'self'; font-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self';, frame-ancestors 'self';", 
-            `access-control-allow-origin` = "*", `content-disposition` = "inline; filename=Emodnetbio-mediseh_ruppia_c_pnt.xsd", 
+            `x-frame-options` = "SAMEORIGIN", `content-security-policy` = "base-uri 'self'; default-src 'none'; child-src 'self'; connect-src 'self'; font-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; form-action 'self'; frame-ancestors 'self';", 
+            `content-disposition` = "inline; filename=Emodnetbio-mediseh_ruppia_c_pnt.xsd", 
             `content-encoding` = "gzip", `content-type` = "application/gml+xml; version=3.2", 
-            `transfer-encoding` = "chunked", date = "Fri, 06 Jun 2025 08:36:13 GMT"), class = c("insensitive", 
+            `transfer-encoding` = "chunked", date = "Fri, 11 Sep 2026 10:34:00 GMT"), class = c("insensitive", 
         "list")))), cookies = structure(list(domain = logical(0), 
         flag = logical(0), path = logical(0), secure = logical(0), 
         expiration = structure(numeric(0), class = c("POSIXct", 
@@ -127,7 +127,7 @@ structure(list(url = "https://geo.vliz.be/geoserver/Emodnetbio/wfs?service=WFS&v
     0x69, 0x61, 0x5f, 0x63, 0x5f, 0x70, 0x6e, 0x74, 0x54, 0x79, 
     0x70, 0x65, 0x22, 0x2f, 0x3e, 0x0a, 0x3c, 0x2f, 0x78, 0x73, 
     0x64, 0x3a, 0x73, 0x63, 0x68, 0x65, 0x6d, 0x61, 0x3e, 0x0a
-    )), date = structure(1749198973, class = c("POSIXct", "POSIXt"
-    ), tzone = "GMT"), times = c(redirect = 0, namelookup = 6.3e-05, 
-    connect = 0, pretransfer = 0.000176, starttransfer = 0.026766, 
-    total = 0.026908)), class = "response")
+    )), date = structure(1789122840, class = c("POSIXct", "POSIXt"
+    ), tzone = "GMT"), times = c(redirect = 0, namelookup = 0.000114, 
+    connect = 0, pretransfer = 0.000273, starttransfer = 0.094659, 
+    total = 0.094795)), class = "response")
